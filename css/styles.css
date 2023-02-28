@@ -18,7 +18,7 @@ header {
 
 ul li {
   color: white;
-  text-align: center;
+  text-align: left;
 }
 
 ul {
@@ -49,4 +49,13 @@ h2 {
   padding-bottom: 25px;
 }
 
-s
+.ashitaka-san {
+  padding-left: 23px;
+}
+
+.masque-san {
+  max-width: 30%;
+  padding-left: 87px;
+}
+br
+
