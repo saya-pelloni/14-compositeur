@@ -9,9 +9,8 @@ img {
   max-width: 87%;
   margin-left: 20px;
   margin-right: 20px;
-  padding-bottom: 35px;
-  border-left-color: royalblue ;
 }
+
 
 header {
   background: black;
@@ -33,8 +32,17 @@ main {
 p {
   margin-left: 20px;
   margin-right: 20px;
+  padding-bottom: 30px ;
 }
 
 h2 {
   margin-left: 20px;
+  padding-top: 25px;
 }
+
+.gif-ponyo {
+  border-top-left-radius: 30px;
+  
+}
+
+
