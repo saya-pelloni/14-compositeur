@@ -1,12 +1,16 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: rgb(232, 28, 28);
+  background: rgb(0, 0, 0);
 }
 
 img {
   display: block;
-  max-width: 100%;
+  max-width: 87%;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-bottom: 35px;
+  border-left-color: royalblue ;
 }
 
 header {
@@ -16,4 +20,21 @@ header {
 ul li {
   color: white;
   text-align: center;
+}
+
+ul {
+  margin-bottom: 45px
+}
+
+main {
+  background: #be3c20;
+}
+
+p {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h2 {
+  margin-left: 20px;
 }
