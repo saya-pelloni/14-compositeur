@@ -41,7 +41,7 @@ h2 {
 }
 
 .gif-ponyo {
-  border-top-left-radius: 30px;
+  clip-path: circle(30%);
   
 }
 
@@ -57,5 +57,19 @@ h2 {
   max-width: 30%;
   padding-left: 87px;
 }
-br
 
+.esprit-foret {
+  max-width: 50%;
+}
+
+.gif-jo {
+  max-width: 50%;
+  padding-left: 118px;
+  padding-right: 20px;
+  padding-top: 65px;
+  padding-bottom: 40px;
+}
+
+footer {
+  text-align: center;
+}
