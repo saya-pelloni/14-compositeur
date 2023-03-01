@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #f5f0e6
+  background: #060607
 }
 
 img {
@@ -34,7 +34,6 @@ h2 {
   margin-left: 20px;
   padding-top: 25px;
   font-family: Phudu;
-  
 }
 
 .ashitaka-san {
@@ -122,6 +121,7 @@ footer {
 
 .totoro {
   margin-bottom: 10px;
+  padding-bottom: 20px;
 }
 
 .ashitaka-san-gif {
@@ -136,3 +136,44 @@ h4 {
   margin-top: 10px;
 }
 
+.san-with-wolf{
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-bottom: 17px;
+  background: #5f1b0b;
+}
+
+.affiche-princesse-mononoke {
+  margin-right: 10px;
+  padding-right: 10px;
+  padding-bottom: 17px;
+  background: #5f1b0b;
+}
+
+.hayao {
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-bottom: 17px;
+  background: #69607e;
+}
+
+.gif-ponyo {
+  margin-right: 10px;
+  padding-right: 10px;
+  padding-bottom: 17px;
+  background: #69607e;
+}
+
+.gif-chihiro {
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-top: 17px;
+  background: #69607e;
+}
+
+.gif-totoro {
+  margin-right: 10px;
+  padding-right: 10px;
+  padding-top: 17px;
+  background: #69607e;
+}
