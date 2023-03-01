@@ -16,7 +16,7 @@ header {
 }
 
 ul {
-  margin-bottom: 45px
+  margin-bottom: 45px;
 }
 
 .song {
@@ -36,11 +36,6 @@ h2 {
   
 }
 
-.gif-ponyo {
-  clip-path: circle(30%);
-  
-}
-
 .ashitaka-san {
   padding-left: 52px;
 }
@@ -52,6 +47,7 @@ h2 {
 
 .esprit-foret {
   max-width: 50%;
+  margin-top: 40px;
 }
 
 .gif-jo {
@@ -83,7 +79,6 @@ footer {
   margin-top: 1px;
 }
 
-
 .legende-affiche {
   font-size: smaller;
   margin-bottom: 25px;
@@ -113,11 +108,14 @@ footer {
 .liste-musique {
   color: black;
   margin-bottom: 10px;
+  padding-bottom: 35px;
 }
 
 .theme {
   color: white;
-  text-align: left;
+  font-family: Phudu;
+  text-align: center;
+  margin-right: 40px;
 }
 
 .totoro {
@@ -131,10 +129,7 @@ footer {
 .footer-bloc {
   background: #897fa1;
 }
-h4{
+h4 {
   margin-top: 10px;
 }
 
-.titre-fin{
-  margin-bottom: 1px;
-}s
