@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: rgb(255, 255, 255);
+  background: #f5f0e6
 }
 
 img {
@@ -27,6 +27,7 @@ ul {
 
 p {
   margin-left: 20px;
+  margin-right: 20px;
 }
 
 h2 {
@@ -116,6 +117,7 @@ footer {
   font-family: Phudu;
   text-align: center;
   margin-right: 40px;
+  list-style: none; 
 }
 
 .totoro {
@@ -129,6 +131,7 @@ footer {
 .footer-bloc {
   background: #897fa1;
 }
+
 h4 {
   margin-top: 10px;
 }
