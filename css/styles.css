@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
 }
 
 img {
@@ -11,33 +11,29 @@ img {
   margin-right: 20px;
 }
 
-
 header {
   background: black;
-}
-
-ul li {
-  color: white;
-  text-align: left;
 }
 
 ul {
   margin-bottom: 45px
 }
 
-main {
-  background: #be3c20;
+.song {
+  margin-left: 130px;
+  margin-bottom: 30px;
+  color: red;
 }
 
 p {
   margin-left: 20px;
-  margin-right: 20px;
-  padding-bottom: 30px ;
 }
 
 h2 {
   margin-left: 20px;
   padding-top: 25px;
+  font-family: Phudu;
+  
 }
 
 .gif-ponyo {
@@ -45,12 +41,8 @@ h2 {
   
 }
 
-.affiche-princesse-mononoke {
-  padding-bottom: 25px;
-}
-
 .ashitaka-san {
-  padding-left: 23px;
+  padding-left: 52px;
 }
 
 .masque-san {
@@ -73,3 +65,76 @@ h2 {
 footer {
   text-align: center;
 }
+
+.legend-film {
+  font-size: small;
+  margin-top: 1px;
+}
+
+.legende-hayao {
+  font-size: smaller;
+  margin-bottom: 30px;
+  margin-top: 1px;
+}
+
+.legende-jo {
+  font-size: smaller;
+  margin-bottom: 30px;
+  margin-top: 1px;
+}
+
+
+.legende-affiche {
+  font-size: smaller;
+  margin-bottom: 25px;
+  margin-top: 1px;
+}
+
+.mononoke-bloc {
+  background: #a53e27;
+}
+
+.realisateur-bloc {
+  background: #897fa1;
+}
+
+.musique-bloc {
+  background: #f5f0e6;
+}
+
+.compositeur-bloc {
+  background: #507a8c;
+}
+
+.intro-bloc{
+  background: #060607;
+}
+
+.liste-musique {
+  color: black;
+  margin-bottom: 10px;
+}
+
+.theme {
+  color: white;
+  text-align: left;
+}
+
+.totoro {
+  margin-bottom: 10px;
+}
+
+.ashitaka-san-gif {
+  margin-top: 20px;
+}
+
+.footer-bloc {
+  background: #897fa1;
+}
+h4{
+  margin-top: 10px;
+}
+
+.titre-fin{
+  margin-bottom: 1px;
+}s
